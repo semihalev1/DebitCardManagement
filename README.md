@@ -23,6 +23,6 @@ Java • Swing • JDBC • MySQL • NetBeans IDE
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/USERNAME/DebitCardManagement.git
+   git clone https://github.com/semihalev1/DebitCardManagement.git
 2. Open the project in NetBeans → File → Open Project → Select project folder
 3. Run the main class (MainFrame.java)
